@@ -47,6 +47,6 @@ Exemplo:
 - [Google Fonts](https://fonts.google.com/)
 - [Mobile First](https://www.moblee.com.br/blog/mobile-first-principais-vantagens/#:~:text=O%20que%20%C3%A9%20mobile%20first%3F&text=Mobile%20first%20%C3%A9%20um%20projeto,acontece%20na%20maioria%20das%20vezes.)
 
-  ## Deploy
+## Deploy
 
-  https://tatyanepereira.github.io/ONE-decodificador-de-texto/
+https://tatyanepereira.github.io/ONE-decodificador-de-texto/
